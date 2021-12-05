@@ -10,8 +10,8 @@ android {
         applicationId "com.hicorenational.antifraud"
         minSdkVersion 16
         targetSdkVersion 29
-        versionCode 1
-        versionName "1.0"
+        versionCode 100
+        versionName "1.1.19"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
