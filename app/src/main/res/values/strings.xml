@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">国家反诈中心</string>
+    <string name="device_admin_title">防卸载（可能无效）</string>
+    <string name="admin_enabled">启用防卸载功能</string>
+    <string name="admin_disable_tips">防卸载功能将失效</string>
 </resources>
