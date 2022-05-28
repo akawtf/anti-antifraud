@@ -20,3 +20,7 @@
 
 ## 防卸载功能
 系统设置里面找到设备管理器，启用这个APP以后可以防止被卸载，但可能只有旧的安卓系统才支持。
+
+### 扩展资料
+* https://github.com/Project-Gutenberg/Pincong-data/blob/dd080508f97da3f6b821ead4fa247e0d719b1491/site/content/post/cc5b3f86c90b6b8e9e4d99abbd5dd188.md
+* https://github.com/dutymachine/news/blob/027d39f46bba492841878c37df6d80efbfcb4e5c/articles/cdt/383678.md#%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83
